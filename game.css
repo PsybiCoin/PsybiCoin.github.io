@@ -1,0 +1,237 @@
+body{
+    background-image:url(https://thumbs.gfycat.com/SociableBoilingHawk.webp);
+    background-color: rgba(0, 0, 0, 0.486);
+    background-blend-mode: darken;
+    background-size: cover;
+    text-align: center;
+    color: #ffffff ;
+    size:16px
+}
+
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color:#ffffff;
+    font-size: 45px;
+    }
+
+h2{
+    text-align: center;
+    color:#ffffff;
+    
+}
+
+h3{
+    color: #f6f6f6;
+   
+
+}
+
+img{
+    height: 150px
+}
+
+ul{ 
+    list-style-type: none;
+  }
+
+
+
+.btn{
+        background:linear-gradient(to bottom, #44c7677e 5%, #44c7677e 100%);
+        background-color:#44c7677e;
+        border-radius:28px;
+        border:1px solid #44c7677e;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:Arial;
+        font-size:17px;
+        font-weight:bold;
+        font-style:italic;
+        padding:16px 31px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #2f6627;
+    }
+    .btn:hover {
+        background:linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+        background-color:#5cbf2a;
+    }
+    .btn:active {
+        position:relative;
+        top:1px;
+    }
+    
+
+
+.returnhome {
+        box-shadow:inset 0px 1px 0px 0px #54a3f7;
+        padding-top: 50px;
+        background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+        background-color:#007dc1;
+        border-radius:3px;
+        border:1px solid #124d77;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:Arial;
+        font-size:13px;
+        padding:6px 24px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #154682;
+    }
+
+
+.returnhome:hover {
+        background:linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+        background-color:#0061a7;
+    }
+
+
+.returnhome:active {
+        position:relative;
+        top:1px;
+    }
+    
+
+
+
+table {
+    padding: 15px;
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: dashed;
+    border-color:rgb(255, 255, 255);
+    font-size: 50px;
+}
+  
+
+
+
+.receiver0{
+    
+    background-size: 200px;
+    background-color: rgba(165, 42, 42, 0)
+    
+}
+.receiver0:hover{
+    opacity: 75%
+}
+.receiver1{
+    
+    background-size: 200px;
+    background-color: rgba(165, 42, 42, 0)
+    
+}
+.receiver1:hover{
+    opacity: 75%
+}
+.receiver2{
+    
+    background-size: 200px;
+    background-color: rgba(165, 42, 42, 0)
+}
+.receiver2:hover{
+    opacity: 75%
+}
+.receiver2{
+    
+    background-size: 200px;
+    background-color: rgba(165, 42, 42, 0)
+}
+.receiver2:hover{
+    opacity: 75%
+}
+.receiver3{
+   
+    background-size: 200px;
+    background-color: rgba(165, 42, 42, 0)
+}
+.receiver3:hover{
+    opacity: 75% 
+    
+}
+.receiver4{
+    
+    background-size: 90px;
+    background-color: rgba(165, 42, 42, 0)
+}
+.receiver4:hover{
+    opacity: 75%
+    
+}
+.receiver5{
+    
+    background-size: 200px;
+    background-color: rgba(165, 42, 42, 0)
+}
+.receiver5:hover{
+    opacity: 75%
+}
+.receiver6{
+    
+    background-size: 200px;
+    background-color: rgba(165, 42, 42, 0)
+}
+.receiver6:hover{
+    opacity: 75%
+}
+.receiver7{
+    
+    background-size: 200px;
+    background-color: rgba(165, 42, 42, 0)
+}
+.receiver7:hover{
+    opacity: 75%
+}
+.receiver8{
+    background-size: 200px;
+    background-color: rgba(165, 42, 42, 0)
+}
+.receiver8:hover{
+    opacity: 75%
+}
+
+div {
+  display: inline-table;
+  align-items: center; font-size: 34px
+}
+td {
+  background-color: rgba(173, 216, 230, 0);
+  font-size: 100px;
+  
+
+}
+td:hover {
+    opacity: 75%;
+  color: red;
+  background-color: rgba(165, 42, 42, 0)
+}
+
+tr:hover {
+    opacity: 75%;
+    color: red;
+    background-color: rgba(165, 42, 42, 0)
+  }
+
+
+a{
+    background-color: #ffffff;
+}  
+
+
+a:hover{
+  color: aqua;
+  background-color: black;
+  font-size: 15px;
+}
+
+li{
+  font-size:18px
+}
+table {
+  table-layout: auto;
+  width: 450px;
+}
