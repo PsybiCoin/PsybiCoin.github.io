@@ -1,0 +1,183 @@
+body{
+    background-image:url(https://thumbs.gfycat.com/SociableBoilingHawk.webp);
+    background-color: rgba(0, 0, 0, 0.486);
+    background-blend-mode: darken;
+    background-size:cover;
+    text-align: center;
+    color: #ffffff ;
+    size:16px
+}
+
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color:#ffffff;
+    font-size: 45px;
+    }
+
+h2{
+    text-align: center;
+    color:#ffffff;
+    
+}
+
+h3{
+    color: #f6f6f6;
+   
+
+}
+
+img{
+    height: 150px
+}
+
+ul{ 
+    list-style-type: none;
+  }
+
+
+.game{color:rgb(39, 3, 145)}
+
+.btn{
+    background-color: #ffffff;
+}
+
+table{
+
+    border-radius: 5px;
+    border-width: 5px;
+    border-style: dashed;
+    border-color:rgb(255, 255, 255);
+    font-size: 50px;
+    animation-duration: 1200ms;
+    animation-name: ease-in;
+}
+
+
+.receiver0{
+    
+    background-size: 200px;
+    background-color: rgba(165, 42, 42, 0)
+    
+}
+.receiver0:hover{
+    opacity: 75%
+}
+.receiver1{
+    
+    background-size: 200px;
+    background-color: rgba(165, 42, 42, 0)
+    
+}
+.receiver1:hover{
+    opacity: 75%
+}
+.receiver2{
+    
+    background-size: 200px;
+    background-color: rgba(165, 42, 42, 0)
+}
+.receiver2:hover{
+    opacity: 75%
+}
+.receiver2{
+    
+    background-size: 200px;
+    background-color: rgba(165, 42, 42, 0)
+}
+.receiver2:hover{
+    opacity: 75%
+}
+.receiver3{
+   
+    background-size: 200px;
+    background-color: rgba(165, 42, 42, 0)
+}
+.receiver3:hover{
+    opacity: 75% 
+    
+}
+.receiver4{
+    
+    background-size: 90px;
+    background-color: rgba(165, 42, 42, 0)
+}
+.receiver4:hover{
+    opacity: 75%
+    
+}
+.receiver5{
+    
+    background-size: 200px;
+    background-color: rgba(165, 42, 42, 0)
+}
+.receiver5:hover{
+    opacity: 75%
+}
+.receiver6{
+    
+    background-size: 200px;
+    background-color: rgba(165, 42, 42, 0)
+}
+.receiver6:hover{
+    opacity: 75%
+}
+.receiver7{
+    
+    background-size: 200px;
+    background-color: rgba(165, 42, 42, 0)
+}
+.receiver7:hover{
+    opacity: 75%
+}
+.receiver8{
+    background-size: 200px;
+    background-color: rgba(165, 42, 42, 0)
+}
+.receiver8:hover{
+    opacity: 75%
+}
+
+div {
+  display: inline-table;
+  align-items: center; font-size: 34px
+}
+td {
+  background-color: rgba(173, 216, 230, 0);
+  font-size: 100px;
+  
+
+}
+td:hover {
+    opacity: 75%;
+  color: red;
+  background-color: rgba(165, 42, 42, 0)
+}
+
+tr:hover {
+    opacity: 75%;
+    color: red;
+    background-color: rgba(165, 42, 42, 0)
+  }
+
+
+a{
+    background-color: #ffffff;
+}  
+
+
+a:hover{
+  color: aqua;
+  background-color: black;
+  font-size: 15px;
+}
+
+li{
+  font-size:18px
+}
+table {
+  table-layout: auto;
+  width: 450px;
+}
